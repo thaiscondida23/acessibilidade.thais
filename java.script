@@ -1,0 +1,6 @@
+document.addEventListener(DOMContentLoaded, function() {
+    const aumentaFonteBotao = document.getElementById('aumenta-fonte');
+
+    let fontSize=16;
+
+    const diminuiFonteBotao = document.getElementById('diminui-fonte');
