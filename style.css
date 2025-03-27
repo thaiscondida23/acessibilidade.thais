@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --azul-escuro: #00008b;
+    --azul-escuro: #181871;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #ffd700;
+    --alto-contraste-link: #e87e05;
 }
 
 body {
@@ -30,7 +30,7 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/4965007.jpg');
+    background-image: url('img/cachorro.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
