@@ -29,9 +29,7 @@ section {
 }
 
 .inicio-fundo {
-    /* aula 3 */
     background-image: url('img/cachorro.jpg');
-    /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
     border-radius: 80px;
@@ -41,7 +39,6 @@ section {
     margin: 0 auto;
 }
 
-/* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
     right: 0;
@@ -74,7 +71,7 @@ section {
 }
 
 
-#tropicalia {
+#Pitbull {
     position: relative;
     padding-top: 5rem;
     margin-top: 3rem;
@@ -82,16 +79,14 @@ section {
     background: url('img/flor.png') top right no-repeat,
         url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
-    /* Ajuste o tamanho conforme necessário */
 }
 
-#tropicalia .container {
+#Pitbull .container {
     display: flex;
     align-items: center;
     justify-content: center;
     position: relative;
     z-index: 1;
-    /* Garante que o conteúdo fica acima das imagens do background */
 }
 
 
