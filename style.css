@@ -103,12 +103,12 @@ h2 {
 }
 
 .fundo-galeria {
-    background: url('img/fundo.png') bottom right no-repeat;
+    background: url('img/fundoonça.png') bottom right no-repeat;
     background-size: 180px 180px;
 }
 
 #contato {
-    background-image: url('img/fundo2.jpg');
+    background-image: url('img/fundoonça.png');
     background-size: cover;
     padding: 4rem 0;
 
