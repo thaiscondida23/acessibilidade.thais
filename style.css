@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lemon&display=swap');
 
 :root {
-    --azul-escuro: #181871;
+    --azul-escuro: #9d0b0b;
     --alto-contraste-fundo: #000000;
     --alto-contraste-texto: #ffffff;
-    --alto-contraste-link: #e87e05;
+    --alto-contraste-link: #04106c;
 }
 
 body {
@@ -29,7 +29,7 @@ section {
 }
 
 .inicio-fundo {
-    background-image: url('img/cachorro.jpg');
+    background-image: url('img/fundo.vermelho.png');
     background-size: cover;
     background-position: right;
     border-radius: 80px;
