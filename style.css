@@ -76,8 +76,8 @@ section {
     padding-top: 5rem;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    background: url('img/flor.png') top right no-repeat,
-        url('img/flor-esquerda.png') bottom left no-repeat;
+    background: url('img/fundo.vermelho.png') top right no-repeat,
+        url('img/fundo.vermelho.png') bottom left no-repeat;
     background-size: 180px 180px;
 }
 
@@ -179,7 +179,7 @@ h2 {
     color: var(--alto-contraste-fundo)
 }
 
-.alto-contraste #tropicalia {
+.alto-contraste #Pitbull {
     background: none;
 }
 
